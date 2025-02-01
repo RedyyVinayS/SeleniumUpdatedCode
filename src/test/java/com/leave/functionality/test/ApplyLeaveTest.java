@@ -22,6 +22,7 @@ public class ApplyLeaveTest extends BaseTest {
 		homepage.clickOnLeaveButton();
 		leavePage.clickOnApplyButton();
 		leavePage.clickOnLeaveTypeDropDown();
+		System.out.println(" Changes made");
 	}
 
 }
